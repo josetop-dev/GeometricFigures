@@ -8,7 +8,7 @@ public class Pyramid {
         int height = 0;
         //CODE
         System.out.println(" ----------------------------------- ");
-        System.out.println("|               PYRAMID             |");
+        System.out.println("|              PYRAMID              |");
         System.out.println(" ----------------------------------- ");
         System.out.println(" ----------------------------------- ");
         System.out.println("| Allowed pyramid height            |");
